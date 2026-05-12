@@ -60,7 +60,7 @@ Todo el contenido relacionado con el proyecto será documentado y almacenado den
 
 ## <strong>Tinkercad</strong>
 <p>
-  <img src="https://raw.githubusercontent.com/HollowMerks/Exopierna/main/Img/Tinkercad.png" width="160" alt="Tinkercad Logo"/>
+  <img src="./Img/Tinkercard.png" width="160" alt="Tinkercad Logo"/>
 </p>
 
 - Simulación básica de circuitos
