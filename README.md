@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/HollowMerks/Exopierna/main/Img/ESP32.png" width="120" alt="ESP32 Logo"/>
-  <img src="https://raw.githubusercontent.com/HollowMerks/Exopierna/main/Img/Blender.png" width="120" alt="Blender Logo"/>
-  <img src="https://raw.githubusercontent.com/HollowMerks/Exopierna/main/Img/Proteus.png" width="120" alt="Proteus Logo"/>
-  <img src="https://raw.githubusercontent.com/HollowMerks/Exopierna/main/Img/ArduinoIDE.png" width="120" alt="Arduino IDE Logo"/>
+  <img src="./Img/ESP32.png" width="120" alt="ESP32 Logo"/>
+  <img src="./Img/Blender.png" width="120" alt="Blender Logo"/>
+  <img src="./Img/Proteus.png" width="120" alt="Proteus Logo"/>
+  <img src="./Img/ArduinoIDE.png" width="120" alt="Arduino IDE Logo"/>
 </p>
 
 <h2 align="center">
@@ -37,7 +37,7 @@ Todo el contenido relacionado con el proyecto será documentado y almacenado den
 
 ## <strong>ESP32</strong>
 <p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/ESP32_logo.svg" width="140"/>
+  <img src="./Img/ESP32.png" width="140"/>
 </p>
 
 - Microcontrolador principal del proyecto
@@ -49,7 +49,7 @@ Todo el contenido relacionado con el proyecto será documentado y almacenado den
 
 ## <strong>Proteus</strong>
 <p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Proteus_Design_Suite_Atom_Logo.png" width="140"/>
+  <img src="./Img/Proteus.png" width="140"/>
 </p>
 
 - Simulación de circuitos electrónicos
@@ -60,7 +60,7 @@ Todo el contenido relacionado con el proyecto será documentado y almacenado den
 
 ## <strong>Tinkercad</strong>
 <p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/Autodesk_Tinkercad_logo.svg" width="160"/>
+  <img src="https://raw.githubusercontent.com/HollowMerks/Exopierna/main/Img/Tinkercad.png" width="160" alt="Tinkercad Logo"/>
 </p>
 
 - Simulación básica de circuitos
@@ -71,7 +71,7 @@ Todo el contenido relacionado con el proyecto será documentado y almacenado den
 
 ## <strong>Blender</strong>
 <p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Blender-logo.svg" width="140"/>
+  <img src="./Img/Blender.png" width="140"/>
 </p>
 
 - Modelado 3D de la exopierna
@@ -82,7 +82,7 @@ Todo el contenido relacionado con el proyecto será documentado y almacenado den
 
 ## <strong>Arduino IDE</strong>
 <p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/Arduino_IDE_logo.svg" width="140"/>
+  <img src="./Img/ArduinoIDE.png" width="140"/>
 </p>
 
 - Desarrollo y carga del código
