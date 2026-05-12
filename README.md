@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="./Img/ESP32.png" width="120" alt="ESP32 Logo"/>
-  <img src="./Img/Blender.png" width="120" alt="Blender Logo"/>
-  <img src="./Img/Proteus.png" width="120" alt="Proteus Logo"/>
-  <img src="./Img/ArduinoIDE.png" width="120" alt="Arduino IDE Logo"/>
+  <img src="https://raw.githubusercontent.com/HollowMerks/Exopierna/main/Img/ESP32.png" width="120" alt="ESP32 Logo"/>
+  <img src="https://raw.githubusercontent.com/HollowMerks/Exopierna/main/Img/Blender.png" width="120" alt="Blender Logo"/>
+  <img src="https://raw.githubusercontent.com/HollowMerks/Exopierna/main/Img/Proteus.png" width="120" alt="Proteus Logo"/>
+  <img src="https://raw.githubusercontent.com/HollowMerks/Exopierna/main/Img/ArduinoIDE.png" width="120" alt="Arduino IDE Logo"/>
 </p>
 
 <h2 align="center">
